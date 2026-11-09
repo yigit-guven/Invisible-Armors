@@ -1,0 +1,9 @@
+{
+  "tooltip.invisible_armors.invisible": "Invisible",
+  "invisible_armors.configuration.title": "Invisible Armors Configs",
+  "invisible_armors.configuration.section.invisible_armors.common.toml": "Invisible Armors Configs",
+  "invisible_armors.configuration.section.invisible_armors.common.toml.title": "Invisible Armors Configs",
+  "invisible_armors.configuration.enableServerPacketSpoofing": "Enable Server Packet Spoofing",
+  "invisible_armors.configuration.allowElytra": "Allow Invisible Elytra",
+  "invisible_armors.configuration.allowAnimalArmor": "Allow Invisible Animal Armor"
+}

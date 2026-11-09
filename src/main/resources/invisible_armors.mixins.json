@@ -1,0 +1,20 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.yigitguven.invisible_armors.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "ClientboundSetEquipmentPacketMixin",
+    "RecipeManagerMixin"
+  ],
+  "client": [
+    "client.ElytraLayerMixin",
+    "client.HorseArmorLayerMixin",
+    "client.HumanoidArmorLayerMixin",
+    "client.WolfArmorLayerMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
+
