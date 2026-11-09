@@ -2,6 +2,14 @@
 
 Invisible Armors allows players to make armor pieces invisible by crafting them with Amethyst Shards, without adding any new items to the game.
 
+## Links & Downloads
+
+- **CurseForge:** [curseforge.com/minecraft/mc-mods/invisible-armors](https://www.curseforge.com/minecraft/mc-mods/invisible-armors)
+- **Modrinth:** [modrinth.com/mod/invisiblearmors](https://modrinth.com/mod/invisiblearmors)
+- **Source Code:** [github.com/yigit-guven/Invisible-Armors](https://github.com/yigit-guven/Invisible-Armors)
+- **Issue Tracker:** [github.com/yigit-guven/Invisible-Armors/issues](https://github.com/yigit-guven/Invisible-Armors/issues)
+- **Wiki:** [github.com/yigit-guven/Invisible-Armors/wiki](https://github.com/yigit-guven/Invisible-Armors/wiki)
+
 ## Features
 
 - **No New Items:** Uses vanilla data components (`custom_data` and `lore`). Preserves enchantments, armor trims, dyes, durability, and custom names.
@@ -50,4 +58,5 @@ Located at `config/invisible_armors-common.toml`:
 ## License & Credits
 
 - **Author:** Yigit_Guven
-- **License:** MIT
+- **License:** [MIT](LICENSE)
+- **Bug Reports & Feedback:** [GitHub Issues](https://github.com/yigit-guven/Invisible-Armors/issues)
