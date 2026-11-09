@@ -1,0 +1,20 @@
+{
+  "homepage": "https://github.com/yigit-guven/Invisible-Armors",
+  "promos": {
+    "1.21.1-latest": "2.0.0",
+    "1.21.1-recommended": "2.0.0",
+    "1.19.2-latest": "1.0.1",
+    "1.19.2-recommended": "1.0.1",
+    "1.18.2-latest": "1.0.0",
+    "1.18.2-recommended": "1.0.0"
+  },
+  "1.21.1": {
+    "2.0.0": "Reworked to use vanilla data components (zero registry overhead), recipe re-added with surrounding Amethyst Shards, and server-side packet spoofing for vanilla clients."
+  },
+  "1.19.2": {
+    "1.0.1": "Bug fixes and compatibility updates for 1.19.2."
+  },
+  "1.18.2": {
+    "1.0.0": "Initial release for 1.18.2."
+  }
+}
