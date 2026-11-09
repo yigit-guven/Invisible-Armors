@@ -12,3 +12,4 @@ All notable changes to **Invisible Armors** are documented in this file.
 - **Client Rendering Support:** Added layer mixins to hide 3D armor, trims, and glint for humanoid armor, Elytras, Horse armor, and Wolf armor.
 - **Configuration:** Options in `config/invisible_armors-common.toml` to toggle server packet spoofing, Elytras, and animal armor.
 - **Documentation & Links:** Added comprehensive documentation, MIT license, CurseForge, Modrinth, and GitHub issue tracker links.
+
